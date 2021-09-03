@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <button>点击</button>
+    
     
   </div>
 </template>
